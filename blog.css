@@ -1,0 +1,19 @@
+body, button, input{
+    font-family: 'M PLUS 1', sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(./images//images2.jpg);
+}
+.image-right{
+    float: right;
+    margin-left: 10px;
+}
+.image-left{
+    float: left;
+    margin-right: 10px;
+}
